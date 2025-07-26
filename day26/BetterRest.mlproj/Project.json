@@ -1,0 +1,29 @@
+{
+  "activityEntities" : [
+    "projectCreated",
+    [
+      {
+        "createdDate" : "2025-07-26T00:51:50Z",
+        "event" : "projectCreated",
+        "id" : "11E2271F-0C6D-4540-856E-7902CC9ACE39",
+        "subtitle" : "BetterRest",
+        "title" : "Project Created"
+      }
+    ]
+  ],
+  "authorName" : "Gunish Sharma",
+  "createdDate" : "2025-07-26T00:51:50Z",
+  "description" : "",
+  "id" : "DDC18142-35E3-4BF9-A47E-CAC27F29F51D",
+  "license" : "",
+  "location" : "",
+  "modifiedDate" : "2025-07-26T00:51:50Z",
+  "projectName" : "BetterRest",
+  "settingsEntity" : {
+    "snapshotOnExtendTraining" : true,
+    "snapshotOnResumeTraining" : false
+  },
+  "taskType" : "generalRegresor",
+  "title" : "Tabular Regression",
+  "version" : "1.1"
+}

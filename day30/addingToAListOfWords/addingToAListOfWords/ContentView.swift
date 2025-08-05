@@ -47,6 +47,7 @@ struct ContentView: View {
             if let startWords = try? String(contentsOf: startWordsURL, encoding: .ascii) {
                 let allWords = startWords.components(separatedBy: "\n")
                 rootWord = allWords.randomElement() ?? "silkworm"
+                return
             }
         }
         fatalError("Could not load start.txt from bundle")
